@@ -7,11 +7,11 @@ Run wzq() in console, we will see the board ready as below.
 
 ![board](board.png)  
 
-Now just move the cursor to any point on the board and lift click to place the first stone. It is black. 
+Now just move the cursor to any point on the board and left click to place the first stone. It is black. 
 
 ![firststone](firststone.png)  
 
-Move cursor to anywhere else and lift click to put the first white stone. 
+Move cursor to anywhere else and left click to put the first white stone. 
 
 ![firstwhitestone](firstwhitestone.png)    
  
@@ -19,6 +19,6 @@ Keep going.....
 
 ![keepgoing](keepgoing.png)     
 
-Until someone get the first five same colored stone in line without any breaks points, the game will be over. 
+The game will be over when someone gets the first five same colored stone in a line without any breaks. 
 
 ![whitewin](whitewin.png) 
