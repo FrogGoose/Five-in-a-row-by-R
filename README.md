@@ -5,3 +5,5 @@ Load or source those two functions provided by Gobang.R in R.
 
 Run wzq() in console, we will see  
 
+![board](board.png)
+
